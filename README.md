@@ -1,6 +1,6 @@
-SAR path of least resistance
+#SAR path of least resistance
 
-Evan Holland
+##Evan Holland
 
 Use terrain cost analysis to determine the most likely path a lost person would take in the event they were lost in the wilderness. 
 
