@@ -1,20 +1,20 @@
-Project Title
+SAR path of least resistance
 
-Name(s) of individual or team members
+Evan Holland
 
-Short 1-2 sentence summary
+Use terrain cost analysis to determine the most likely path a lost person would take in the event they were lost in the wilderness. 
 
-Problem statement, question(s) and/or objective(s)
+from any given last known location, what is the most likely path of travel based on terrain cost analysis
 
-Datasets you will use (with links, if available)
+Datasets you will use (with links, if available)-tbd
 
-Python packages that team members require
+Python packages that team members require- tbd
 
-Planned methods/approach
+Planned methods/approach: classification of terrain. assign cost. determine time since last known point. generate path. 
 
-Expected outcomes
+Expected outcomes: path of least resistance; identify possible points to focus SAR ops. 
 
-Any other relevant information, images/tables, references, etc.
+Any other relevant information, images/tables, references, etc: tbd
 
 References
 
